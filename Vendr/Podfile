@@ -1,0 +1,31 @@
+# Uncomment the next line to define a global platform for your project
+platform :ios, '9.0'
+
+target 'Runr' do
+  use_frameworks!
+  
+ pod 'AFNetworking'
+ pod 'Alamofire'
+  
+
+
+
+
+
+
+
+
+ # Pods for Runr
+ 
+
+  target 'RunrTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+  target 'RunrUITests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+end

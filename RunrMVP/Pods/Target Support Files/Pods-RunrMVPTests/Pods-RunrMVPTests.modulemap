@@ -1,0 +1,6 @@
+framework module Pods_RunrMVPTests {
+  umbrella header "Pods-RunrMVPTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

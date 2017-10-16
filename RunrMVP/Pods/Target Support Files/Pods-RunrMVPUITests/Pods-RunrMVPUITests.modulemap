@@ -1,0 +1,6 @@
+framework module Pods_RunrMVPUITests {
+  umbrella header "Pods-RunrMVPUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
