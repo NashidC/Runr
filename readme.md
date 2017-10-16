@@ -21,3 +21,6 @@ The Vendr app is what we made in early January before pivoting completely to Run
 I just want to make sure not to lose this code and it doesn really matter anymore, thnx
 
 :-)
+
+Demo!
+<img src='https://i.imgur.com/Pj0NxWF.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
